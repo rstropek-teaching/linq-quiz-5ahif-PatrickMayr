@@ -1,0 +1,9 @@
+D:\Htl\5AHIF\C#\GitHub\LinqQuiz.Library\bin\Debug\netcoreapp2.0\LinqQuiz.Library.deps.json
+D:\Htl\5AHIF\C#\GitHub\LinqQuiz.Library\bin\Debug\netcoreapp2.0\LinqQuiz.Library.dll
+D:\Htl\5AHIF\C#\GitHub\LinqQuiz.Library\bin\Debug\netcoreapp2.0\LinqQuiz.Library.pdb
+D:\Htl\5AHIF\C#\GitHub\LinqQuiz.Library\obj\Debug\netcoreapp2.0\LinqQuiz.Library.csprojResolveAssemblyReference.cache
+D:\Htl\5AHIF\C#\GitHub\LinqQuiz.Library\obj\Debug\netcoreapp2.0\LinqQuiz.Library.csproj.CoreCompileInputs.cache
+D:\Htl\5AHIF\C#\GitHub\LinqQuiz.Library\obj\Debug\netcoreapp2.0\LinqQuiz.Library.AssemblyInfoInputs.cache
+D:\Htl\5AHIF\C#\GitHub\LinqQuiz.Library\obj\Debug\netcoreapp2.0\LinqQuiz.Library.AssemblyInfo.cs
+D:\Htl\5AHIF\C#\GitHub\LinqQuiz.Library\obj\Debug\netcoreapp2.0\LinqQuiz.Library.dll
+D:\Htl\5AHIF\C#\GitHub\LinqQuiz.Library\obj\Debug\netcoreapp2.0\LinqQuiz.Library.pdb
